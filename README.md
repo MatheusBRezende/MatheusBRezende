@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução
 - Linguagens de Programação: HTML, CSS, JS, JAVA, PYTHON, NODE.JS etc
 
 ## 📈 Estatísticas do GitHub
-!Estatísticas do GitHub de Matheus Rezende(https://github-readme-stats.vercel.app/api?username=MatheusBRezende&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Matheus Rezende(https://github-readme-stats.vercel.app/api?username=MatheusBRezende&show_icons=true&theme=radical)]
 
 ## 📫 Como Me Encontrar
 - Email: mbazarello@gmail.com
