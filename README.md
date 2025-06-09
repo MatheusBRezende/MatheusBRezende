@@ -1,23 +1,10 @@
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução de problemas e construção de soluções de software impactantes. Aqui está um pouco sobre mim:
+Add comment
+More actions
 
 
 
 ## 🚀 Sobre Mim
-
-
-- 🌍 Localizado em: [Sua Localização]
-
-
-- 💻 Especializado em: [Suas Especializações, ex: Desenvolvimento Full-Stack, Machine Learning, etc.]
-
-
-- 🤝 Aberto a colaborar em: [Tipos de projetos em que você está interessado em colaborar]
-
-
-- 🌱 Atualmente aprendendo: [O que você está aprendendo ou explorando]
-
-
-- ✍️ Nas horas vagas: Gosto de [seus hobbies ou interesses fora da programação]
 
 
 - 🌍 Localizado em: [Brasil Belo Horizonte]
@@ -25,6 +12,11 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução
 
 - 💻 Especializado em: [Desenvolvimento Full-Stack, Web desenvolvimento e Mod developer]
 
+
+- 🌍 Localizado em: Brasil Belo Horizonte
+
+
+- 💻 Especializado em: Desenvolvimento Full-Stack, Web desenvolvimento e Mod developer
 
 - 🤝 Aberto a colaborar
 
@@ -35,18 +27,11 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução
 - ✍️ Nas horas vagas: Gosto de [Aprimorar minha habilidade em porgramação web]
 
 
+- 🌱 Atualmente aprendendo: Desenvolvimento de Mods para o Jogo Minecraft
 
 
-## 🛠️ Tecnologias & Ferramentas
+- ✍️ Nas horas vagas: Gosto de Aprimorar minha habilidade em porgramação web
 
-
-- Linguagens de Programação: [Liste linguagens de programação que você conhece]
-
-
-- Frameworks & Bibliotecas: [Liste frameworks e bibliotecas que você utiliza]
-
-
-- Ferramentas & Plataformas: [Liste ferramentas e plataformas que você usa]
 
 
 ## 🛠️ Tecnologias
@@ -55,23 +40,21 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução
 - Linguagens de Programação: [HTML, CSS, JS, JAVA, PYTHON, NODE.JS etc]
 
 
+- Linguagens de Programação: HTML, CSS, JS, JAVA, PYTHON, NODE.JS etc
+
+
 
 ## 📈 Estatísticas do GitHub
+
 
 ![Estatísticas do GitHub de Matheus Rezende](https://github-readme-stats.vercel.app/api?username=MatheusBRezende&show_icons=true&theme=radical)
 
 
+!Estatísticas do GitHub de Matheus Rezende(https://github-readme-stats.vercel.app/api?username=MatheusBRezende&show_icons=true&theme=radical)
+
+
 
 ## 📫 Como Me Encontrar
-
-
-- Email: [Seu Endereço de Email]
-
-
-- LinkedIn: [Seu Perfil no LinkedIn]
-
-
-- Portfólio: [Seu Website de Portfólio]
 
 
 - Email: [mbazarello@gmail.com]
@@ -82,3 +65,11 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação, resolução
 
 - Portfólio: [(https://matheusbrezende.github.io/Portifolio/)]
 
+
+- Email: mbazarello@gmail.com
+
+
+- LinkedIn: (https://www.linkedin.com/in/matheus-bazarello-ba058b277/)
+
+
+- Portfólio: (https://matheusbrezende.github.io/Portifolio/)
